@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hubertwang/AndroidStudioProjects/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d289074a48fa6d093440508cbbd65e8487f9701">
+        <dex dex="/Users/hubertwang/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1df6500986cb4306908de6b9a46d2632d9bdae1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hubertwang/.gradle/caches/modules-2/files-2.1/net.objecthunter/exp4j/0.4.4/31fc16920f12de42b8605fe33e6036786626fe11/exp4j-0.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31fc16920f12de42b8605fe33e6036786626fe11">
+        <dex dex="/Users/hubertwang/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/exp4j-0.4.4_458cc6d5f21664c6b0e2463368d3ab12b97b0f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hubertwang/AndroidStudioProjects/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/hubertwang/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_76b71669f1ca23b947ef329109129e5d7dd9eec2/classes.dex" />
+    </item>
+
+</items>
